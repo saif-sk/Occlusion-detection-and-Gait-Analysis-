@@ -1,0 +1,2 @@
+•	Occlusion detection in computer vision identifies enhancing tracking of the person’s movement’s and done Gait analysis study that how human walking patterns, used in biometrics and medical diagnostics.
+• And trained the model using my own video, achieving 97% human body detection with Yolo. Gait analysis was precise with OpenCV. This aids occlusion detection and object prediction, benefiting medical and security industries. 
